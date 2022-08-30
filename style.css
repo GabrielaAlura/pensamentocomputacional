@@ -15,14 +15,10 @@ p{
 }
 .itens {
   font-style: italic; color: #934d21; font-size:30px
-    display: inline-block;
-  vertical-align: top;
-  margin-right: 15%;
-  
-}
+  }
 .imagemcapa {
   width:25%;
 }
 .1ato { 
-    width:30%;
+    width:30%; display: inline-block;
   
