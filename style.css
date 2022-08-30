@@ -7,9 +7,12 @@ h1{
   h2{
     text-align: center; color: #934d21
   }
+h3{ 
+  color: #934d21
+}
 p{
   text-aling: justify; color: Khaki
 }
 .itens {
-  font-style: italic;
+  font-style: italic; color: #934d21
 }
