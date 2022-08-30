@@ -5,16 +5,16 @@ h1{
   text-align: left; color: DarkGoldenRod
   }
   h2{
-    text-align: center; color: #934d21; font-size:100px
+    text-align: center; color: #934d21; font-size:70px
   }
 h3{ 
-  color: #934d21
+  color: #934d21; font-size:40px
 }
 p{
-  text-aling: justify; color: Khaki
+  text-aling: justify; color: Khaki; font-size:30px
 }
 .itens {
-  font-style: italic; color: #934d21
+  font-style: italic; color: #934d21; font-size:30px
 }
 .imagemcapa {
   width:25%;
