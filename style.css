@@ -22,3 +22,14 @@ p{
 .1ato { 
     width:30%; display: inline-block;
   
+  nav li {
+      display: inline;
+      margin: 0 0 0 15px;
+}
+nav a {
+    text-transform: uppercase;
+    color: #c4594b;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
