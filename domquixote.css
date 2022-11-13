@@ -1,5 +1,5 @@
 body{
-  background-color: BurlyWood
+  background-color: #ae2f27
 }
 
   nav li {
@@ -13,3 +13,25 @@ nav a {
     font-size: 22px;
     text-decoration: none;
 }
+
+h1{
+  text-align: left; color: DarkGoldenRod
+  }
+  h2{
+    text-align: center; color: #030506; font-size:70px
+  }
+h3{ 
+  color: #f3a36b; font-size:30px
+}
+p{
+  text-aling: justify; color: #4a2512; font-size:30px
+}
+.itens {
+  font-style: italic; color: #f1ae2b; font-size:30px
+  }
+.imagemcapa {
+  width:25%;
+}
+.1ato { 
+    width:30%; display: inline-block;
+  
