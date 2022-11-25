@@ -1,17 +1,17 @@
 body{
-  background-color: BurlyWood
+  background-color: #f07e13
 }
 h1{
-  text-align: left; color: DarkGoldenRod
+  text-align: left; color: #cc3917
   }
   h2{
-    text-align: center; color: #934d21; font-size:70px
+    text-align: center; color: #cc3917; font-size:70px
   }
 h3{
-  color: #934d21; font-size:30px
+  color: #cc3917; font-size:30px
 }
 p{
-  text-aling: justify; color: Khaki; font-size:30px
+  text-aling: justify; color: #000000; font-size:30px
 }
 .itens {
   font-style: italic; color: #934d21; font-size:30px
@@ -29,7 +29,7 @@ p{
 }
 nav a {
     text-transform: uppercase;
-    color: #c4594b;
+    color: #ffe2ba;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
